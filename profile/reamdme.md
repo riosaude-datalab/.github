@@ -1,0 +1,1 @@
+/home/breno/Documentos/prog/riosaude/riosaude_escala_digital/README copy.md
